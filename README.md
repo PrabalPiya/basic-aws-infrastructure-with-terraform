@@ -1,4 +1,4 @@
-## Basic AWS Infrastructure with Terraform
+#Basic AWS Infrastructure with Terraform
 
 This is a simple DevOps project where I used Terraform to create basic AWS infrastructure.
 
